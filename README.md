@@ -18,7 +18,7 @@ This project implements a microservice using Flask to help users calculate their
 ![Project Roadmap](readme_components/drawio.png)
 
 ## Youtube Demo
-https://youtu.be/efvi5y-yYYY
+[Demo Link](https://youtu.be/PmG5UUFCKY0)
 
 ## Quick View
 
@@ -122,8 +122,8 @@ We use the dataset from [Kaggle](https://www.kaggle.com/uciml/exercise-calories-
 ## Running the Application locally
 
 ```bash
-git clone https://github.com/haobo-yuan/IDS706-FinalProject.git
-cd IDS706-FinalProject
+git clone https://github.com/nogibjj/Su_Zhang_Individual_Project_3.git
+cd Su_Zhang_Individual_Project_3
 pip install -r requirements.txt
 python src/app.py
 ```
